@@ -1,0 +1,28 @@
+Project 05 - ALU
+COMP300 @ USD (Fall 2018)
+
+1. Name: Eduardo Ortega 
+
+2. USD Email Address: eortega@sandiego.edu
+
+3. Project Overview:  Based on a signal f we are expected to preform several 
+			arithmetic operators. Such as OR, AND, XOR, NOR, addition, 
+			subtraction, and LESS THAN.  This is based on an ALU
+			which is a piece of arithmatic compuatational circuitatry
+			which is used in common computer archecture. After
+			programming the cases for each input of signal f we
+			obtained the flags which would have been either 1 or
+			0 based on operation. From here we operated the different
+			operators in the csv file which was changed to our test
+			vector file.  These test vectors were read into the test
+			bench to test each case of each operator in easy
+			succussion.  This would be done on modelsim through
+			simulating the testbench which ran the ALU.  
+
+4. Hours Spent on Project: 20
+
+5. Project Bucks: 0 
+	- On this project: 0 
+	- So far this semester: 0 
+
+6. (Optional) Comments:  The reason this took me so long was because of the reading in of the bits and how to properly display/assign them.  
